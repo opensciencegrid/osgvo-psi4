@@ -1,0 +1,8 @@
+{
+    "opensciencegrid.name": "Psi4",
+    "opensciencegrid.description": "Psi4 is an open-source suite of ab initio quantum chemistry programs designed for efficient, high-accuracy simulations of molecular properties.",
+    "opensciencegrid.url": "https://psicode.org/",
+    "opensciencegrid.category": "Tools",
+    "opensciencegrid.definition_url": "https://github.com/opensciencegrid/osgvo-psi4"
+}
+
